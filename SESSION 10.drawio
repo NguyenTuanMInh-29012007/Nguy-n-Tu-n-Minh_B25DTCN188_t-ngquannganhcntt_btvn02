@@ -509,7 +509,7 @@
         <mxCell id="PVQRZyi1wM0VoUuRiMg4-8" value="In biên lai cho khách hàng&lt;div&gt;output: máy in&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-157" y="641" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CzlJo_Ll9e0RU5e9R3eo-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CzlJo_Ll9e0RU5e9R3eo-3" value="Kết thúc: trả lại thẻ khách hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-238" y="788" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
